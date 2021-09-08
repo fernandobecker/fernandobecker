@@ -65,6 +65,12 @@
    </a>
 </div>
 
+<hr>
+
+<div align="center">   
+    <img src="https://github.com/wagnerolivsantos/wagnerolivsantos/blob/output/github-contribution-grid-snake.svg" alt="C" />
+</div>
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=fernandobecker&color=blue&style=flat)
