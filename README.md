@@ -3,7 +3,7 @@
 
 ### 🤵 About Me
 
-- 🔭 I’m currently working on **Rede Maze**
+- 🔭 I’m currently working on **Daitan Group**
 - 💡 I’m currently learning **Go, Kotlin and Python**
 - 💬 Ask me about **Java**
 - 🥅 2021 goals: learn **ReactJS, NextJS and Kubernetes**
