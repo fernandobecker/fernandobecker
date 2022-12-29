@@ -3,7 +3,7 @@
 
 ### 🤵 About Me
 
-- 🔭 I’m currently working on **Daitan Group**
+- 🔭 I’m currently working on **Encora**
 - 💡 I’m currently learning **Go, Kotlin and Python**
 - 💬 Ask me about **Java**
 - 🥅 2022 goals: learn **Kubernetes**
