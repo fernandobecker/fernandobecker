@@ -4,7 +4,7 @@
 ### 🤵 About Me
 
 - 🔭 I’m currently working on **Encora**
-- 💡 I’m currently learning **Go, Kotlin and Python**
+- 💡 I’m currently learning **Go, Elixir**
 - 💬 Ask me about **Java**
 - 🥅 2022 goals: learn **Kubernetes**
 
